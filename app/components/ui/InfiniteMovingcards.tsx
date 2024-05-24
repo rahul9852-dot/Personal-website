@@ -107,8 +107,10 @@ export const InfiniteMovingCards = ({
                 <span className="flex flex-col gap-1">
                   <div className="me-3">
                       <img
-                        src="/profile.svg"
+                        src="/developer.png"
                         alt="profile"
+                        height={36}
+                        width={36}
                       />
                   </div>
                   <div className="flex flex-col gap-1">
